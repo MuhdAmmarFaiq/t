@@ -2,6 +2,10 @@ ion-toolbar {
   --background: #ffffff;
 }
 
+ion-content {
+  --background: linear-gradient(90deg, #fffbd5 0%, #c06c84 100%);
+}
+
 .logo{
   margin-top: 10%;
   display: block;
