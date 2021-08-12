@@ -13,6 +13,29 @@ ion-text {
     h1 {
         font-size: 42px;
         -webkit-text-stroke: 0.5px black;
+        color: #c06c84;
+    }
+
+    p {
+        font-size: 14px;
+        color: #696969;
+    }
+}
+
+.secondtext {
+    position: absolute;
+    top: 55%;
+    left: 0;
+    right: 0;
+    width: 80%;
+    margin:0 auto;
+    text-align: right !important;
+    display   : block;
+
+    h1 {
+        font-size: 42px;
+        -webkit-text-stroke: 0.5px black;
+        color: #fffbd5;
     }
 
     p {
