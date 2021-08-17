@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Troll-E",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
